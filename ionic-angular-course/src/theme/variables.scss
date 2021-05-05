@@ -74,6 +74,14 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  /** petronas **/
+  --ion-color-petronas: #38B09D;
+  --ion-color-petronas-rgb: 56,176,157;
+  --ion-color-petronas-contrast: #000000;
+  --ion-color-petronas-contrast-rgb: 0,0,0;
+  --ion-color-petronas-shade: #319b8a;
+  --ion-color-petronas-tint: #4cb8a7;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -145,6 +153,13 @@
     --ion-color-light-contrast-rgb: 255,255,255;
     --ion-color-light-shade: #1e2023;
     --ion-color-light-tint: #383a3e;
+
+    --ion-color-petronas: #38B09D;
+    --ion-color-petronas-rgb: 56,176,157;
+    --ion-color-petronas-contrast: #000000;
+    --ion-color-petronas-contrast-rgb: 0,0,0;
+    --ion-color-petronas-shade: #319b8a;
+    --ion-color-petronas-tint: #4cb8a7;
   }
 
   /*
